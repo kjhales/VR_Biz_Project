@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/BusinessOffice_Practice.unity
+  isLoaded: 1
+  isActive: 1
