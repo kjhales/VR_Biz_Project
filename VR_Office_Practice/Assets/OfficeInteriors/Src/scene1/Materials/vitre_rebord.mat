@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: vitre_rebord
+  m_Shader: {fileID: 4800000, guid: 892ffb3039d887e47b433fce5f5607ba, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 2800000, guid: f13d92ffa3b88c44894e06c7ca22361a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Cube
+      second:
+        m_Texture: {fileID: 8900000, guid: 0788ba4679f07cf4c89f4c0869868e23, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 898c72a5a5c97d846847df1713cdb796, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _SpecMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Spec_Gloss_Reflec_Masks
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _WrapTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _EdgeAlpha
+      second: 0
+    - first:
+        name: _FrezFalloff
+      second: 1.5
+    - first:
+        name: _FrezPow
+      second: 0.28846154
+    - first:
+        name: _Gloss
+      second: 0.5
+    - first:
+        name: _Metalics
+      second: 0.5
+    - first:
+        name: _Reflect
+      second: 0.0000000040118513
+    - first:
+        name: _Reflection
+      second: 0.07692307
+    - first:
+        name: _RimPower
+      second: 3
+    - first:
+        name: _Shininess
+      second: 1.5
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 0.058823533, g: 0.058823533, b: 0.058823533, a: 1}
+    - first:
+        name: _RimColor
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _SpecColor
+      second: {r: 1, g: 1, b: 1, a: 1}
