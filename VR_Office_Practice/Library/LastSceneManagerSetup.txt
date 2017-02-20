@@ -1,4 +1,13 @@
 sceneSetups:
-- path: Assets/BusinessOffice_Practice.unity
+- path: Assets/OfficeInteriors/Scenes/entrance_desk/entrance_desk.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/OfficeInteriors/Scenes/meeting_room/meeting room.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/OfficeInteriors/Scenes/office/office.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/OfficeInteriors/Scenes/reception_room/reception_room.unity
+  isLoaded: 0
+  isActive: 0
